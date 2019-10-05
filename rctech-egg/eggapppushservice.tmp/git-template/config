@@ -1,0 +1,4 @@
+[fetch]
+	recurseSubmodules = false
+[http "https://gitlab.com"]
+	sslCAInfo = /home/gitlab-runner/builds/qY_6_P8z/0/rctech-egg/eggapppushservice.tmp/CI_SERVER_TLS_CA_FILE
